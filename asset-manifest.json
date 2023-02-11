@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tailwind/tree/main/react_tailwind_responsive_herosection/static/css/main.641f0832.css",
+    "main.js": "/react-tailwind/tree/main/react_tailwind_responsive_herosection/static/js/main.3b302a78.js",
+    "index.html": "/react-tailwind/tree/main/react_tailwind_responsive_herosection/index.html",
+    "main.641f0832.css.map": "/react-tailwind/tree/main/react_tailwind_responsive_herosection/static/css/main.641f0832.css.map",
+    "main.3b302a78.js.map": "/react-tailwind/tree/main/react_tailwind_responsive_herosection/static/js/main.3b302a78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.641f0832.css",
+    "static/js/main.3b302a78.js"
+  ]
+}
